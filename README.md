@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nagarjun
-- 👀 I’m interested in Analytics and Business
+- 👀 I’m interested in Data Analytics and Business Intelligence
 - 🌱 I’m currently learning Data Analytical Tools
-- 💞️ I’m looking to collaborate on Data Analysis project
-- 📫 How to reach me (nagarjunmuthukrishnan@gmail.com)
+- 💞️ I’m looking to collaborate on a Data Analysis project
+- 📫 How to reach me nagarjunmuthukrishnan@gmail.com
 
 <!---
 NagarjunMuthukrishnan/NagarjunMuthukrishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
